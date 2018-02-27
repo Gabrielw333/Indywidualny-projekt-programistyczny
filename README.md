@@ -10,7 +10,7 @@ nieważne pod jakim kątem będzie dany przedmiot.
 Jeśli jednak to nie okaże się dobrym pomysłem to mógłbym zrobić program sterujący kursorem na przykład po labiryncie, mający za zadanie 
 pokonać go jak najszybciej biorąc pod uwagę rodzaje powierzchni (różna prędkość poruszanie się ) z których składać się będzie labirynt. 
 
-## język 
+## Język 
 
 raczej python
 
