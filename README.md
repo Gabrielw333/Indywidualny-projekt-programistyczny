@@ -16,7 +16,7 @@ raczej python
 
 ## Biblioteki które zamierzam wykorzystać  
 
-(może mniej może więcej okaże się w trakcie pracy) 
+(mniej więcej okaże się w trakcie pracy) 
 
 + ## TensorFlow
 
