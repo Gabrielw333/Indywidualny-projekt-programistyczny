@@ -18,13 +18,13 @@ raczej python
 
 (może mniej może więcej okaże się w trakcie pracy) 
 
-TensorFlow
++ ## TensorFlow
 
-scikit learn,
-theano,
-Keras,
-SciPy,
-NumPY,
-pandas
++ scikit learn
++ theano
++ Keras
++ SciPy
++ NumPY
++ pandas
 
 
